@@ -1,0 +1,7 @@
+def main():
+   books = ['bible', 'mobydick', 'artofwar', 'animalfarm', 'howtokillamockingbird']
+   size = [15-2, 10-4, 20-7, 12-1, 13-3]   .
+   shelfsize = 23-17
+
+   totbookssize = sum(size)
+   enter sum(size) into shelfsize 
